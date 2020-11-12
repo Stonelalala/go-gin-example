@@ -20,17 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="827abc41-8cc3-4a91-bef4-3a714f32cbaa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/tag.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routers/router.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routers/v1/article.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routers/v1/tag.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/app.ini" beforeDir="false" afterPath="$PROJECT_DIR$/conf/app.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/models.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/models.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/setting/setting.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/setting/setting.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/tag.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/tag.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routers/v1/tag.go" beforeDir="false" afterPath="$PROJECT_DIR$/routers/v1/tag.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +36,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="C:\Go" />
+  <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -65,7 +57,7 @@
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,10 +95,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="310" y="307" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605059074671" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1605059077480">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="461" y="189" key="SettingsEditor" timestamp="1605188218252">
+      <screen x="0" y="22" width="1920" height="1058" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605059077480" />
+    <state x="461" y="189" key="SettingsEditor/0.22.1920.1058/-2560.22.2560.1418@0.22.1920.1058" timestamp="1605188218252" />
     <state x="662" y="74" width="596" height="891" key="find.popup" timestamp="1604645175271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
